@@ -1,6 +1,7 @@
-package com.projeto.biblioteca;
+package com.projeto.model;
 
 public class Livros {
+	
 	private String livro;
 	private String autor;
 	private int ano;
